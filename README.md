@@ -1,4 +1,4 @@
-<img src="https://github.com/giovana-morais/giovana-morais/blob/master/img/joseph.jpeg">
+<img src="https://github.com/giovana-morais/giovana-morais/blob/master/img/joseph.jpeg" alt="drawing of a skating dog" width="200">
 
 hello there!
 
