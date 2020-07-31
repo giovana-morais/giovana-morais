@@ -1,4 +1,4 @@
-![skating_dog](img/joseph.jpeg)
+<img src="https://github.com/giovana-morais/giovana-morais/blob/master/img/joseph.jpeg">
 
 hello there!
 
