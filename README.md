@@ -1,4 +1,4 @@
-eu amo o meio ambiente, mas pra mim o ambiente inteiro é o ideal. vamos preservar.
+é como diz o ditado: vai lá e mete o louco.
 
 <!--
 **giovana-morais/giovana-morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
