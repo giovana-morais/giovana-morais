@@ -1,4 +1,4 @@
-é como diz o ditado: vai lá e mete o louco.
+[![SmartSelect_20231227-233547_Instagram](https://github.com/giovana-morais/giovana-morais/assets/12520431/d56e2360-6fe6-4ed1-b7fc-1f0a5f64af74)](https://www.instagram.com/silvazuao/)
 
 <!--
 **giovana-morais/giovana-morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
